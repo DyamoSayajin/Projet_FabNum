@@ -1,0 +1,20 @@
+Question: Quelle est la capitale de la France?
+Propositions:
+a) Berlin
+b) Madrid
+c) Paris
+Reponse: c
+
+Question: Quelle est la couleur du ciel par temps clair?
+Propositions:
+a) Vert
+b) Bleu
+c) Rouge
+Reponse: b
+
+Question: Quel est le résultat de 2+2?
+Propositions:
+a) 3
+b) 4
+c) 5
+Reponse: b
