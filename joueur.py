@@ -3,8 +3,8 @@ class Joueur:
         self.nom = nom
         self.score = score
 
-    def ajouterScore(self, score):
-        self.score += score
+    def ajouterScore(self):
+        self.score += 1
     
     def donner_score(self):
         return self.score
