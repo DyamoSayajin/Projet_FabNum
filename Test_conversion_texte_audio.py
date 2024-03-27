@@ -12,7 +12,7 @@ questions, propositions, reponses = lecture_fichier.lire_fichier("reponses.txt")
   
 # Le texte que vous souhaitez cronvertir en audio
 #mytext = "Bienvenue sur le quizz de StopBulliyng. Vous allez répondre à 3 questions. Pour chaque question, vous aurez 3 propositions. A la fin du quizz, vous aurez votre score. Bonne chance !"
-texte = ''.join(questions)
+question = ''.join(questions)
 
 
   
@@ -22,10 +22,10 @@ language = 'fr'
 # Passer le texte et la langue au moteur de convertion gTTS,
 # ici nous avons marqué slow=False. Qui marque que l'audio 
 #doit avoir une vitesse non ralentie
-textSpeech = gTTS(text=texte, lang=language, slow=False)
-  
+textSpeech1 = gTTS(text=question, lang=language, slow=False)
+
 # Enregistrer l'audio converti dans un fichier nommé bienvenue.mp3 
-textSpeech.save("bienvenue.mp3")
-  
+textSpeech1.save("question.mp3")
+
 # lire le fichier audio
-os.popen("bienvenue.mp3")
+os.popen("question.mp3")
