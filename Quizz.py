@@ -1,5 +1,7 @@
-from Joueur import *
-from time import time
+from joueur import *
+import time
+import serial
+
 
 class Quizz:
     def __init__(self,questions,reponses,propositions):
@@ -16,46 +18,45 @@ class Quizz:
     def lireProposition(self,nombreAleatoire):
         print(self.propositions[nombreAleatoire])
 
-    def verifReponse(self,nombreAleatoire,joueur1,joueur2):
-        tempsDebut = time()
+    def decoder(self,rep1,rep2):
+        dico = {'x':'a','y':'b','z':'c'}
+        if rep1 in ['x','y','z']:
+            rep1,rep2 = rep2,rep1
+        if rep2 in ['x','y','z']:
+            rep2 = dico[rep2]
+        return rep1,rep2
+    
+    def getReponse(self,nombreAleatoire,ser,joueur1,joueur2):
+        tempsDebut = time.time()
         chrono = 0
-        booleen = False
-        buzzers = ''
-        while booleen and chrono < 15:
-            buzzers = str(input('Entrez la réponse des deux joueurs : '))
-            print(buzzers)
-            tempsFin = time()
-            chrono = tempsDebut - tempsFin
-            if buzzers != '':
-                booleen = True
+        ser.open()
+        while chrono < 15:
+            rep1 = ser.read().decode("utf-8")
+            rep2 = ser.read().decode("utf-8")
+            rep1,rep2 = self.decoder(rep1,rep2)
+            #time.sleep(1)
+            print(rep1,rep2)
+            tempsFin = time.time()
+            chrono = tempsFin - tempsDebut
+        ser.close()
+        self.verifReponse(nombreAleatoire,rep1,rep2,joueur1,joueur2)
+    
+    
+    def verifReponse(self,nombreAleatoire,rep1,rep2,joueur1,joueur2):
 
-        reponseJoueur1 = buzzers.split('_',0)
-        reponseJoueur2 = buzzers.split('_',1)
-        print(reponseJoueur1)
-        print(reponseJoueur2)
-
-
-        if reponseJoueur1 == self.reponses[nombreAleatoire]:
+        if rep1 == self.reponses[nombreAleatoire]:
             joueur1.ajouterScore()
             print("J1: Bonne réponse")
         else:
             print("J1: Mauvaise réponse")
 
-        if reponseJoueur2 == self.reponses[nombreAleatoire]:
+        if rep2 == self.reponses[nombreAleatoire]:
             joueur2.ajouterScore()
             print("J2: Bonne réponse")
         else:
             print("J2: Mauvaise réponse")
 
-        
-        """if input() ==  self.reponses[nombreAleatoire]: #remplacer input par l'input du buzzer à terme.
-            joueur.ajouterScore()
-            print("bonne réponse")
-        else:
-            print("mauvaise réponse")"""
-
     def poserQuestion(self,nombreAleatoire):
-        
         self.lireQuestion(nombreAleatoire)
         self.lireProposition(nombreAleatoire)
 
