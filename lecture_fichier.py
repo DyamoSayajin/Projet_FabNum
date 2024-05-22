@@ -3,37 +3,33 @@ def lire_fichier(fichier):
     propositions = []
     reponses = []
 
-    
-    with open(fichier, 'r') as f:
-        lignes = f.readlines() #Ajout de chaque lignes du fichier dans un tableau
+    with open(fichier, 'r',encoding="utf-8") as f:
+        lignes = f.readlines()
         i = 0
 
-        #Parcours de chaque ligne pour trier les questions, propositions et réponses.
         while i < len(lignes):
-            #Si la ligne commence par le mot "Question" suivi de ":" alors on découpe la ligne pour placer la phrase dans le bon tableau
             if lignes[i].startswith("Question:"):
                 questions.append(lignes[i].split(":", 1)[1].strip())
+                i += 1
 
-            #Cas ou la ligne commence par "Propositions:"
-            #Les 3 prochaines lignes seront des propositions.
             elif lignes[i].startswith("Propositions:"):
-
-                #On creer un autre tableau temporaire pour regrouper les 3 propositions dans une sous-liste.
-                #La liste des propositions sera un tableau à deux dimensions ("une liste rempli de sous-liste").
                 propositions_temp = []
                 i += 1
-                while not lignes[i].startswith("Reponse:"):
+                while i < len(lignes) and not lignes[i].startswith("Reponse:") and not lignes[i].startswith("Question:"):
                     propositions_temp.append(lignes[i].strip())
                     i += 1
                 propositions.append(propositions_temp)
-                continue
 
-            #De meme si la ligne commence par "Reponse:"
             elif lignes[i].startswith("Reponse:"):
                 reponses.append(lignes[i].split(":", 1)[1].strip())
-            i += 1
+                i += 1
+
+            else:
+                # Si la ligne ne commence par aucune des balises attendues, on passe à la ligne suivante
+                i += 1
 
     return questions, propositions, reponses
+
 
 
 # Affichage des questions, propositions et réponses (pour verifier)

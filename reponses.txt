@@ -1,20 +1,154 @@
-Question: Quelle est la capitale de la France?
+Question: Où se produit le harcèlement scolaire ?
 Propositions:
-a) Berlin
-b) Madrid
-c) Paris
+a) C’est seulement à l’école
+b) Que dans la cour
+c) C’est à l’école et sur les réseaux sociaux
 Reponse: c
 
-Question: Quelle est la couleur du ciel par temps clair?
+Question: Quel numéro peut-on appeler si on est témoin ou victime de harcèlement scolaire ?
 Propositions:
-a) Vert
-b) Bleu
-c) Rouge
+a) 3077
+b) 3018
+c) 911
 Reponse: b
 
-Question: Quel est le résultat de 2+2?
+Question: Plein d’élèves ont l’habitude de me toucher les fesses dans les escaliers
 Propositions:
-a) 3
-b) 4
-c) 5
+a) C’est interdit j’en parle à un adulte
+b) Je fais comme si de rien n’était
+c) C’est rien de grave
+Reponse: a
+
+Question:  Citez les 3 acteurs du harcèlement ?
+Propositions:
+a) Victime harceleur facteur
+b) Le professeur, le conseiller principal d’écucation, la cantine
+c) Victime, harceleur témoin
+Reponse: c
+
+Question: Le professeur ne m’interroge jamais quand je lève la main ?
+Propositions:
+a) Il ne me voit pas je suis au fond de la classe
+b) C’est du harcèlement il ne m’aime pas
+c) Il ne m’interroge pas car j’ai toujours les bonnes réponses
+Reponse: b
+
+Question: En classe je fais passer un mot d’insulte à la demande d’une copine
+Propositions:
+a) Je n’y suis pour rien
+b) Je suis coupable
+c) C’est pas ma faute
+Reponse: b
+
+Question: Ma copine est victime de harcèlement par un groupe d’élèves
+Propositions:
+a) Ce n’est pas mon problème
+b) Je m’en éloigne pour ne pas en être victime
+c) Je le signale à un adulte
+Reponse: c
+
+Question: Si un camarade se fait embêter, c’est qu’il ne sait pas se défendre
+Propositions:
+a) Non ce n’est pas si simple
+b) Oui c’est sûr
+c) Il le merite
+Reponse: a
+
+Question: Ca fait trois fois que je me fais bousculer à la sortie de l’école, on me demande de l’argent maintenant
+Propositions:
+a) Je ne dis rien 
+b) C’est interdit par la loi
+c) je continue à donner de l’argent quitte à voler mes parents
+Reponse: b
+
+Question:Je me moque une fois sur les réseaux sociaux d’une publication d’un camarade de classe
+Propositions:
+a) C’est pas grave c’est juste pour rire
+b) Ce n’est pas du harcèlement
+c) C’est du cyber harcèlement
+Reponse: c
+
+Question: Ma publication humiliante sur un camarade a fait 150 vues, je la supprime
+Propositions:
+a) Mon camarade peut déposer plainte contre moi
+b) C’est terminé on n’en parle plus
+c) J’ai fait le buzz
+Reponse: a
+
+Question: J’ai été exclu à plusieurs reprises de l’établissement scolaire
+Propositions:
+a) L’école applique le règlement
+b) C’est du harcèlement
+c) Je n’aime pas l’école ça ne me pose pas de problème
+Reponse: b
+
+Question: J’ai un camarade qui a des difficultés à s’exprimer
+Propositions:
+a) Je me moque de lui et j’en rigole avec les autres
+b) Je l’aide et le met en confiance
+c) Je l'affiche devant les gens 
+Reponse: b
+
+Question: Je suis victime de cyberharcèlement par un autre élève
+Propositions:
+a) Mes parents demandent un rendez-vous avec le chef d’établissement
+b) Mes parents règlent le problème directement avec les parents de l’autre élève devant l’établissement
+c) Mes parents règlent le problème sur les réseaux sociaux
+Reponse: a
+
+Question: Tous les jours je suis poussé par le même élève avec qui je suis en club de sport et on s’en amuse
+Propositions:
+a) Ce sont des violences
+b) C’est notre relation
+c) C’est du harcèlement   
+Reponse: c
+
+Question: Je ne peux pas m’asseoir à côté de mon meilleur copain en classe
+Propositions:
+a) Je ne viens plus en classe
+b) C’est le professeur qui choisit
+c) C’est du harcèlement
+Reponse: b
+
+Question: Je suis victime de harcèlement au collège, je me suis confié à un adulte du collège, rien ne se passe
+Propositions:
+a) Je me tais
+b) Je règle mes problèmes tout seul
+c) J’en parle à mes parents
+Reponse: c
+
+Question: Je suis victime de harcèlement à l’école, je règle mes comptes
+Propositions:
+a) Ni l’un ni l’autre
+b) Sur les réseaux sociaux
+c) Dans la cour de récréation
+Reponse: a
+
+Question: Je dénonce des faits de harcèlement
+Propositions:
+a) Je suis une balance
+b) Je suis un témoin
+c) Je suis une « poucave » 
+Reponse: b
+
+Question: Le professeur m’a collé trois fois car je n’ai pas fait mes devoirs
+Propositions:
+a) C’est ma faute
+b) C’est du harcèlement
+c) C’est une injustice
+Reponse: a
+
+Question: Dans une discussion sur le « groupe » de la classe j’ai posté un like lorsque mon ami(e) a dénigré un autre élève
+Propositions:
+a) J’ai juste fait ça parce que c’est un ami(e). Je n’ai rien à voir avec cette histoire
+b) Un like ça ne compte pas
+c) Je suis responsable car j’ai été d’accord avec mon ami(e) et je l’ai écrit et posté
+Reponse: c
+
+Question: A l’école on me dit plein de fois que je suis bizarre parce que je porte un jupe en plein hiver
+
+Propositions:
+a) C’est juste une moquerie
+b) C’est du harcèlement
+c) C’est vrai
 Reponse: b

@@ -1,8 +1,11 @@
+import pyttsx3
 from joueur import *
 import time
 import serial
 from gtts import gTTS
 import os 
+
+
 
 
 class Quizz:
@@ -12,16 +15,16 @@ class Quizz:
         self.propositions = propositions
 
     def lireQuestion(self,nombreAleatoire):
-        #print(self.questions[nombreAleatoire])
-        q = gTTS(text = self.questions[nombreAleatoire], lang = 'fr', slow = False)
-        q.save("question.mp3")
-        os.popen("question.mp3")
+        engine = pyttsx3.init()
+        engine.setProperty('rate', 130)  
+        engine.say(self.questions[nombreAleatoire])
+        engine.runAndWait()
     
     def lireReponse(self,nombreAleatoire):
-        #print(self.reponses[nombreAleatoire])
-        r = gTTS(text = "la réponse est " + self.reponses[nombreAleatoire], lang = 'fr', slow = True)
-        r.save("reponse.mp3")
-        os.popen("reponse.mp3")
+        engine = pyttsx3.init()
+        engine.setProperty('rate', 130)
+        engine.say(self.reponses[nombreAleatoire])
+        engine.runAndWait()
 
     def lireProposition(self,nombreAleatoire):
         #print(self.propositions[nombreAleatoire])
@@ -29,11 +32,12 @@ class Quizz:
         for i in self.propositions[nombreAleatoire]:
             tab.append(i)
         print(tab)
-        text_to_speak = ' '.join(tab)
-        p = gTTS(text = text_to_speak, lang = 'fr', slow = False)
+        text_to_speach = ' '.join(tab)
 
-        p.save("proposition.mp3")
-        os.popen("proposition.mp3")
+        engine = pyttsx3.init()
+        engine.setProperty('rate', 130)
+        engine.say(text_to_speach)
+        engine.runAndWait()
 
     def decoder(self,rep1,rep2):
         dico = {'x':'a','y':'b','z':'c'}
