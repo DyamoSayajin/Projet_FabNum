@@ -51,7 +51,7 @@ Question: Si un camarade se fait embêter, c’est qu’il ne sait pas se défen
 Propositions:
 a) Non ce n’est pas si simple
 b) Oui c’est sûr
-c) Il le merite
+c) Il le mérite
 Reponse: a
 
 Question: Ca fait trois fois que je me fais bousculer à la sortie de l’école, on me demande de l’argent maintenant

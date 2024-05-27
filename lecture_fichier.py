@@ -33,7 +33,10 @@ def lire_fichier(fichier):
 
 
 # Affichage des questions, propositions et réponses (pour verifier)
-"""for i, question in enumerate(questions):
+"""
+questions, propositions, reponses = lire_fichier(r"D:\Users\Noa\Documents\GitHub\Projet_FabNum\reponses.txt")
+
+for i, question in enumerate(questions):
     print("Question {}: {}".format(i+1, question))
     for j, proposition in enumerate(propositions[i]):
         print("  {}. {}".format(chr(97+j), proposition))
