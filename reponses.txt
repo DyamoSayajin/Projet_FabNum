@@ -204,12 +204,14 @@ c) Elle a raison
 Reponse: a
 
 Question:J’ai souvent de mauvaises notes. Mes parents me réprimandent à chaque fois
+Propositions:
 a) C’est du harcèlement
 b) C’est de la maltraitance
 c) Ca fait partie de l’éducation
 Reponse: b
 
 Question:Je vois mon père dire tout les jours à ma mère qu’elle est nulle et qu’elle ne sait rien faire de bien
+Propositions:
 a) C’est une histoire qui doit rester dans la famille
 b) C’est normal, il y a cela dans toutes les familles
 c) c'est puni par la loi car c'est du harcèlement
@@ -217,6 +219,7 @@ Reponse: c
 
 
 Question:Le harcèlement, c’est ?
+Propositions:
 a) Un jeu
 b) Ca dépend 
 c) Une pratique qui consiste à nuire, faire du mal ou blesser un camarade
@@ -224,109 +227,126 @@ Reponse: c
 
 
 Question:Comment s’appelle le harcèlement sur internet ?
+Propositions:
 a) Cyber harcèlement
 b) Cibo harcèlement
 c) Ordi harcèlement 
 Reponse: a
 
 Question:Je sonne tous les jours sur la sonnette de mon voisin.
+Propositions:
 a)Une sonnette ça sert à ça
 b)C’est du harcèlement
 c)c’est une plaisanterie il n’a pas d’humour
 Reponse: b
 
 Question:Je ne suis jamais invité aux anniversaires, je suis triste
+Propositions:
 a)J’accepte la situation
 b)J’insiste auprès de mes camarades pour être invité
 c)J’insulte l’organisateur sur les réseaux
 Reponse: a
 
 Question:Qui décide qu’une blague est drôle ?
+Propositions:
 a)Celui qui la inventée
-b) Celui qui la raconte
+b)Celui qui la raconte
 c)Ma mère
 Reponse: b
 
 Question:Le harcèlement est puni par la loi.
-a) Non
-b) Ca dépend
-c) Oui
+Propositions:
+a)Non
+b)Ca dépend
+c)Oui
 Reponse: c
 
 Question:On me propose une cigarette pour faire comme les copains
-a) Si je refuse j’ai peur d’être exclu du groupe
-b) J’accepte
+Propositions:
+a)Si je refuse j’ai peur d’être exclu du groupe
+b)J’accepte
 c) C’est pas illégal
 Reponse: c
 
 Question:Je suis d’origine ethnique étrangère et on se moque de mes origines tous les jours
+Propositions:
 a) C’est du harcèlement
 b) C’est de la discrimination
 c) C’est à moi de m’adapter
 Reponse: a
 
 Question:J’habite dans un quartier difficile et on m’oblige à aller dans un collège du centre ville
+Propositions:
 a) C’est pour favoriser l’égalité des chances
 b) C’est de la discrimination, j’ai un collège à côté de chez moi qui est très bien
 c) Aucune des réponses proposées
 Reponse: b
 
 Question:Je suis une fille, je fais du rugby et on me dit tous les jours que je suis un garçon manqué
+Propositions:
 a) C’est sexiste
 b) On règle ça sur le terrain
 c) C’est normal c’est un sport de garçon
 Reponse: a
 
 Question:Je suis un garçon aux cheveux longs avec un tee-shirt rose et le vendeur du magasin me dit : « au revoir madame »
+Propositions:
 a)Je publie cette annonce sur les réseaux sociaux
 b) Je ne lui parle plus et l’évite
 c) Je la soutiens dans son choix et ne porte aucun jugement
 Reponse: c
 
 Question:Ma meilleure amie m’annonce qu’elle n’aime que les filles
+Propositions:
 a) C’est une histoire qui doit rester dans la famille
 b) C’est normal, il y a cela dans toutes les familles
 c) c'est puni par la loi car c'est du harcèlement
 Reponse: c
 
 Question:Que risque un mineur auteur de harcèlement aux yeux de la loi
-
+Propositions:
 a) Une amende et ou de la prison
 b) Rien il est mineur
 c) Aucune des réponses proposées 
 Reponse: a
 
 Question:Je suis victime de harcèlement
+Propositions:
 a) Bien fait !
 b) Ce n’est pas mon problème
 c) Tu veux qu’on en parle ?
 Reponse: c
 
 Question:Je trouve une personne que je ne connais pas très belle et je la siffle
+Propositions:
 a) C’est flatteur
 b) C’est puni par la loi
 c) C’est de la drague
 Reponse: b
 
 Question:Nous jouons au foot tous les soirs sur le terrain de foot
+Propositions:
 a) Les voisins peuvent déposer plainte, on fait du bruit tous les jours, un ballon qui tape c’est bruyant. C’est du harcèlement.
 b) Ce n’est pas ma faute s’ils ont leurs maisons à côté du terrain de sport et qu’ils ne supportent pas le bruit
 c) On joue avec un ballon en mousse, c’est nul mais ça n’embête personne
 Reponse: c
 
 Question:Je surnomme mon meilleur ami « Fifi » et lui me surnomme « Riri »
+Propositions:
 a) Ce n’est pas du harcèlement car ça nous fait rire
 b) C’est du harcèlement même si ça nous fait rire
 c) Donner un surnom à un ami c’est toujours du harcèlement
 Reponse: a
 
 Question:Au foot, à chaque entrainement, mon entraîneur me traite de bon à rien car je suis lent et me fait faire des tours de terrain pendant que les autres jouent
+Propositions:
 a) Le sport c’est pour être meilleur, il fait ça pour mon bien.
 b) Il est entraîneur, ce qui compte c’est l’équipe et les résultats
 c) Il n’a pas le droit, je dois pouvoir m’entraîner comme les autres
 Reponse: c
 
 Question:Un jour, lors de mon entraînement de sport, ne n’arrive pas à faire une figure, un membre de l’équipe rit et me dit que je suis nul
+Propositions:
 a) C’est méchant
 b) C’est du harcèlement
 c) C’est pour mon bien
