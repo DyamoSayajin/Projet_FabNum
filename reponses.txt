@@ -146,9 +146,188 @@ c) Je suis responsable car j’ai été d’accord avec mon ami(e) et je l’ai 
 Reponse: c
 
 Question: A l’école on me dit plein de fois que je suis bizarre parce que je porte un jupe en plein hiver
-
 Propositions:
 a) C’est juste une moquerie
 b) C’est du harcèlement
 c) C’est vrai
 Reponse: b
+
+Question: Mes parents m’obligent à manger des légumes
+Propositions:
+a)Ca fait partie de l’éducation
+b) C’est de la maltraitance
+c) On n’est pas au self, je mange ce que l’on me propose
+Reponse: a
+
+
+Question: Ma petite sœur me suit tout le temps à la maison et lit mon carnet intime
+Propositions:
+a) C’est interdit par la loi
+b) C’est normal
+c) C’est autorisé avec mon accord
+Reponse: c
+
+Question: Mon frère de 14 ans a pris des photos de moi humiliantes et les a envoyées sur les réseaux sociaux à tous mes amis
+Propositions:
+a) Le harcèlement c’est aussi dans la famille
+b)C’est une histoire de famille
+c) Je le tape et je casse son téléphone
+Reponse: a
+
+
+Question:Que peuvent faire mes parents pour me punir d’avoir harcelé un camarade ?
+Propositions:
+a)Me confisquer le téléphone
+b)Me mettre une gifle
+c)M'harceler à leur tour 
+Reponse: a
+
+Question:Mon frère tous les jours me dit des choses méchantes, j’en tombe malade.
+Propositions:
+a) C’est normal dans une famille
+b) C’est du harcèlement
+c) Il faut faire avec et attendre les 18 ans
+Reponse: b
+
+Question:Tous les jours mes parents me disent que mes résultats ne sont pas suffisants alors que je suis bon élève et j’en fais une phobie
+Propositions:
+a) C’est normal que mes parents veuillent que je sois le meilleur
+b) Ce n’est pas normal, je peux demander de l’aide
+c) C’est comme ça dans une famille, je dois atteindre mes 18 ans pour faire quelque chose
+Reponse: b
+
+Question:Ma petite sœur de 4 ans n’arrête pas de me dire que je suis laide
+Propositions:
+a) Elle est petite elle ne se rend pas compte
+b) Je peux porter plainte pour harcèlement
+c) Elle a raison
+Reponse: a
+
+Question:J’ai souvent de mauvaises notes. Mes parents me réprimandent à chaque fois
+a) C’est du harcèlement
+b) C’est de la maltraitance
+c) Ca fait partie de l’éducation
+Reponse: b
+
+Question:Je vois mon père dire tout les jours à ma mère qu’elle est nulle et qu’elle ne sait rien faire de bien
+a) C’est une histoire qui doit rester dans la famille
+b) C’est normal, il y a cela dans toutes les familles
+c) c'est puni par la loi car c'est du harcèlement
+Reponse: c
+
+
+Question:Le harcèlement, c’est ?
+a) Un jeu
+b) Ca dépend 
+c) Une pratique qui consiste à nuire, faire du mal ou blesser un camarade
+Reponse: c
+
+
+Question:Comment s’appelle le harcèlement sur internet ?
+a) Cyber harcèlement
+b) Cibo harcèlement
+c) Ordi harcèlement 
+Reponse: a
+
+Question:Je sonne tous les jours sur la sonnette de mon voisin.
+a)Une sonnette ça sert à ça
+b)C’est du harcèlement
+c)c’est une plaisanterie il n’a pas d’humour
+Reponse: b
+
+Question:Je ne suis jamais invité aux anniversaires, je suis triste
+a)J’accepte la situation
+b)J’insiste auprès de mes camarades pour être invité
+c)J’insulte l’organisateur sur les réseaux
+Reponse: a
+
+Question:Qui décide qu’une blague est drôle ?
+a)Celui qui la inventée
+b) Celui qui la raconte
+c)Ma mère
+Reponse: b
+
+Question:Le harcèlement est puni par la loi.
+a) Non
+b) Ca dépend
+c) Oui
+Reponse: c
+
+Question:On me propose une cigarette pour faire comme les copains
+a) Si je refuse j’ai peur d’être exclu du groupe
+b) J’accepte
+c) C’est pas illégal
+Reponse: c
+
+Question:Je suis d’origine ethnique étrangère et on se moque de mes origines tous les jours
+a) C’est du harcèlement
+b) C’est de la discrimination
+c) C’est à moi de m’adapter
+Reponse: a
+
+Question:J’habite dans un quartier difficile et on m’oblige à aller dans un collège du centre ville
+a) C’est pour favoriser l’égalité des chances
+b) C’est de la discrimination, j’ai un collège à côté de chez moi qui est très bien
+c) Aucune des réponses proposées
+Reponse: b
+
+Question:Je suis une fille, je fais du rugby et on me dit tous les jours que je suis un garçon manqué
+a) C’est sexiste
+b) On règle ça sur le terrain
+c) C’est normal c’est un sport de garçon
+Reponse: a
+
+Question:Je suis un garçon aux cheveux longs avec un tee-shirt rose et le vendeur du magasin me dit : « au revoir madame »
+a)Je publie cette annonce sur les réseaux sociaux
+b) Je ne lui parle plus et l’évite
+c) Je la soutiens dans son choix et ne porte aucun jugement
+Reponse: c
+
+Question:Ma meilleure amie m’annonce qu’elle n’aime que les filles
+a) C’est une histoire qui doit rester dans la famille
+b) C’est normal, il y a cela dans toutes les familles
+c) c'est puni par la loi car c'est du harcèlement
+Reponse: c
+
+Question:Que risque un mineur auteur de harcèlement aux yeux de la loi
+
+a) Une amende et ou de la prison
+b) Rien il est mineur
+c) Aucune des réponses proposées 
+Reponse: a
+
+Question:Je suis victime de harcèlement
+a) Bien fait !
+b) Ce n’est pas mon problème
+c) Tu veux qu’on en parle ?
+Reponse: c
+
+Question:Je trouve une personne que je ne connais pas très belle et je la siffle
+a) C’est flatteur
+b) C’est puni par la loi
+c) C’est de la drague
+Reponse: b
+
+Question:Nous jouons au foot tous les soirs sur le terrain de foot
+a) Les voisins peuvent déposer plainte, on fait du bruit tous les jours, un ballon qui tape c’est bruyant. C’est du harcèlement.
+b) Ce n’est pas ma faute s’ils ont leurs maisons à côté du terrain de sport et qu’ils ne supportent pas le bruit
+c) On joue avec un ballon en mousse, c’est nul mais ça n’embête personne
+Reponse: c
+
+Question:Je surnomme mon meilleur ami « Fifi » et lui me surnomme « Riri »
+a) Ce n’est pas du harcèlement car ça nous fait rire
+b) C’est du harcèlement même si ça nous fait rire
+c) Donner un surnom à un ami c’est toujours du harcèlement
+Reponse: a
+
+Question:Au foot, à chaque entrainement, mon entraîneur me traite de bon à rien car je suis lent et me fait faire des tours de terrain pendant que les autres jouent
+a) Le sport c’est pour être meilleur, il fait ça pour mon bien.
+b) Il est entraîneur, ce qui compte c’est l’équipe et les résultats
+c) Il n’a pas le droit, je dois pouvoir m’entraîner comme les autres
+Reponse: c
+
+Question:Un jour, lors de mon entraînement de sport, ne n’arrive pas à faire une figure, un membre de l’équipe rit et me dit que je suis nul
+a) C’est méchant
+b) C’est du harcèlement
+c) C’est pour mon bien
+Reponse: a
