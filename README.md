@@ -9,5 +9,5 @@ Fonctionnalités :
 
 Note importante : Tous les commits jusqu'au 17ème ont été développé sur Windows et ne tiennent pas compte de modification avec gTTS et pydub sur Raspberry.
 
-Ce projet a été developpé par Alan Chauvin, Noa Juguera, Hichem Sanhaji, Theo Bertrand.
+Ce projet a été developpé par Alan, Noa, Hichem, Theo.
 En cas de reprise de ce projet par un autre groupe d'élève de l'UE FabNum vous pouvez contacter : noajuguera@hotmail.com pour des renseignements.
